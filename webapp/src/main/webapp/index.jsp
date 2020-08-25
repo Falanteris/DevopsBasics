@@ -2,7 +2,7 @@
 <h3> This is a line of code </h3>
 <h3> This is awesome!! </h3>
   <a href="#">This is a random link that no one cares about, right?</a>
-  
+  <img src="https://icatcare.org/app/uploads/2018/06/Ear.jpg" alt="Image of a cat">
   <div>
     <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa eget egestas purus viverra accumsan in. Tincidunt ornare massa eget egestas purus viverra accumsan in. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Ac turpis egestas maecenas pharetra convallis. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Sit amet consectetur adipiscing elit ut aliquam purus sit amet. Non pulvinar neque laoreet suspendisse interdum. Ac placerat vestibulum lectus mauris ultrices eros in cursus turpis. Tempor commodo ullamcorper a lacus vestibulum sed arcu. In nibh mauris cursus mattis molestie a iaculis. Risus feugiat in ante metus dictum.
